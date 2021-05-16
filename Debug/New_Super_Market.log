@@ -1,0 +1,5 @@
+﻿  New_Super_Market.cpp
+c:\users\m.z\source\repos\new_super_market\new_super_market\new_super_market.cpp(277): warning C4102: 'defult': unreferenced label
+c:\users\m.z\source\repos\new_super_market\new_super_market\new_super_market.cpp(307): warning C4102: 'defult': unreferenced label
+c:\users\m.z\source\repos\new_super_market\new_super_market\new_super_market.cpp(336): warning C4102: 'defult': unreferenced label
+  New_Super_Market.vcxproj -> C:\Users\M.Z\source\repos\New_Super_Market\Debug\New_Super_Market.exe
